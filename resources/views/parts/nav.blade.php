@@ -1,4 +1,5 @@
 
 <nav>
-  <a href="./">Top</a>
+  <a href="{{ url('/')}}">HOME</a>
+  <a href="{{ url('/about')}}">ABOUT</a>
 </nav>
