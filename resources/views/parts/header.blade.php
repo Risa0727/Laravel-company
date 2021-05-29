@@ -7,7 +7,8 @@
                 <div class="text-center text-white">
                     <!-- Page heading-->
                     <h1 class="mb-5">Welcome to ABC Company</h1>
-                    <h4 class="mb-5">Smart managed solution to meet your demand</h4>
+                    <h4 class="mb-5">Don’t worry about failure.<br>
+Worry about the chances you miss when you don’t even try.</h4>
                     <!-- Signup form-->
                     <form>
                         <div class="input-group input-group-lg">
