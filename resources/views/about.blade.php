@@ -5,6 +5,3 @@
     <p>It is {{ $current_time }} now.</p>
   </main>
   @include("parts.footer")
-</body>
-
-</html>
