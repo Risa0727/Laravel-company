@@ -6,18 +6,19 @@
 <section class="showcase">
   <div class="container-fluid p-0">
     <div class="row g-0">
-      <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+      <div class="col-lg-10 order-lg-1 my-auto showcase-text">
         <h2>About Us</h2>
-        <p class="lead mb-0">
-          This is ABC Company.<br />
+        <p class="lead ">
+          This is just practice website.<br />
+          Thank you for visiting!<br />
           Now is {{ $current_time }}. <br />
-
-          <ul>
-            <li>Name: ABC Company</li>
-            <li>Address: LANE COVE WEST​, NEW SOUTH WALES, 2066</li>
-            <li>Company Description: ABC Company is located in LANE COVE WEST, NEW SOUTH WALES, Australia and is part of the Information Technology Services Industry.</li>
-          </ul>
         </p>
+          <ul class="list-group">
+            <li class="list-group-item">Name: ABC Company</li>
+            <li class="list-group-item">Address: LANE COVE WEST​, NEW SOUTH WALES, 2066</li>
+            <li class="list-group-item">Company Description: ABC Company is located in LANE COVE WEST, NEW SOUTH WALES, Australia and is part of the Information Technology Services Industry.</li>
+          </ul>
+
       </div>
     </div>
   </div>
