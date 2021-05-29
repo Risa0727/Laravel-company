@@ -9,7 +9,8 @@
       <div class="col-lg-6 order-lg-1 my-auto showcase-text">
         <h2>About Us</h2>
         <p class="lead mb-0">
-          This is ABC Company.<br />
+          This is a practice web site.<br />
+          Thank you for visiting!<br />
           Now is {{ $current_time }}. <br />
 
           <ul>
