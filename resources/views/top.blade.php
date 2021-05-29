@@ -1,9 +1,9 @@
   @include("parts.common")
   @include("parts.header")
-  <main>
-    <h1>This is Top page.</h1>
-  </main>
-  @include("parts.footer")
-</body>
 
-</html>
+  @include("parts.top.section01")
+  @include("parts.top.section02")
+  @include("parts.top.section03")
+  @include("parts.top.section04")
+  
+  @include("parts.footer")
