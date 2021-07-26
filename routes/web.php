@@ -19,7 +19,3 @@ use Illuminate\Support\Facades\Route;
 // });
 Route::get('/', 'TopPageController@show');
 Route::get('/about', 'AboutPageController@show');
-
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return view('dashboard');
-})->name('dashboard');
